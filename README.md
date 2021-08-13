@@ -1,6 +1,5 @@
-# NEO
+# Custom-PHP-MVC-Framework
 
-NEOは日本のミュージカル学校です
 
 ## Getting Started
 
