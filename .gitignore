@@ -1,0 +1,9 @@
+/.idea/
+.htaccess
+README.md
+public/images
+.project
+.vscode/
+.buildpath
+public/videos/
+public/tmp/
